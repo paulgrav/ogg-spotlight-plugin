@@ -8,7 +8,6 @@
 		);
 		breakpoints = (
 		);
-		breakpointsGroup = DABAA0A70B46CE87006481FA /* XCBreakpointsBucket */;
 		codeSenseManager = DABAA0100B46A0DC006481FA /* Code sense */;
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
@@ -66,10 +65,10 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					200,
-					63,
+					103,
+					60,
 					20,
-					48.1626,
+					48,
 					43,
 					43,
 				);
@@ -83,8 +82,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 196420688;
-			PBXWorkspaceStateSaveDate = 196420688;
+			PBXPerProjectTemplateStateSaveDate = 247233627;
+			PBXWorkspaceStateSaveDate = 247233627;
 		};
 		sourceControlManager = DABAA00F0B46A0DC006481FA /* Source Control */;
 		userBuildSettings = {
@@ -152,11 +151,5 @@
 	DABAA0100B46A0DC006481FA /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	DABAA0A70B46CE87006481FA /* XCBreakpointsBucket */ = {
-		isa = XCBreakpointsBucket;
-		name = "Project Breakpoints";
-		objects = (
-		);
 	};
 }
