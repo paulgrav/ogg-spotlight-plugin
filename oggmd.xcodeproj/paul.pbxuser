@@ -83,22 +83,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 189637516;
-			PBXWorkspaceStateSaveDate = 189637516;
-		};
-		perUserProjectItems = {
-			DA2751280B46F07700AAAD90 = DA2751280B46F07700AAAD90 /* PBXBookmark */;
-			DA2751730B47000700AAAD90 = DA2751730B47000700AAAD90 /* PBXTextBookmark */;
-			DA2751C10B47CB5F00AAAD90 = DA2751C10B47CB5F00AAAD90 /* PBXTextBookmark */;
-			DA27530F0B484E1A00AAAD90 = DA27530F0B484E1A00AAAD90 /* PBXBookmark */;
-			DA2753310B4854AC00AAAD90 = DA2753310B4854AC00AAAD90 /* PBXTextBookmark */;
-			DA2753370B4858F000AAAD90 = DA2753370B4858F000AAAD90 /* PBXTextBookmark */;
-			DA27533D0B485A5400AAAD90 = DA27533D0B485A5400AAAD90 /* PBXTextBookmark */;
-			DA2753410B485A8200AAAD90 = DA2753410B485A8200AAAD90 /* PBXTextBookmark */;
-			DA2753450B485A9800AAAD90 = DA2753450B485A9800AAAD90 /* PBXTextBookmark */;
-			DA2753490B485B3E00AAAD90 = DA2753490B485B3E00AAAD90 /* PBXTextBookmark */;
-			DA27534B0B485C9300AAAD90 = DA27534B0B485C9300AAAD90 /* PBXTextBookmark */;
-			DA27534C0B485C9300AAAD90 = DA27534C0B485C9300AAAD90 /* PBXTextBookmark */;
+			PBXPerProjectTemplateStateSaveDate = 196420688;
+			PBXWorkspaceStateSaveDate = 196420688;
 		};
 		sourceControlManager = DABAA00F0B46A0DC006481FA /* Source Control */;
 		userBuildSettings = {
@@ -122,10 +108,10 @@
 	};
 	2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {716, 1498}}";
-			sepNavSelRange = "{3103, 0}";
-			sepNavVisRect = "{{0, 305}, {557, 489}}";
-			sepNavWindowFrame = "{{354, 160}, {596, 618}}";
+			sepNavIntBoundsRect = "{{0, 0}, {937, 1498}}";
+			sepNavSelRange = "{1429, 0}";
+			sepNavVisRect = "{{0, 1}, {937, 501}}";
+			sepNavWindowFrame = "{{64, 94}, {976, 630}}";
 		};
 	};
 	8D57630D048677EA00EA77CD /* oggmd */ = {
@@ -154,112 +140,6 @@
 			sepNavVisRect = "{{0, 0}, {1006, 417}}";
 			sepNavWindowFrame = "{{153, 101}, {1045, 546}}";
 		};
-	};
-	DA2751280B46F07700AAAD90 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-	};
-	DA2751730B47000700AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = NSAutoreleasePool;
-		rLen = 0;
-		rLoc = 753;
-		rType = 0;
-		vrLen = 1308;
-		vrLoc = 1559;
-	};
-	DA2751C10B47CB5F00AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 73";
-		rLen = 0;
-		rLoc = 3469;
-		rType = 0;
-		vrLen = 1127;
-		vrLoc = 1885;
-	};
-	DA27530F0B484E1A00AAAD90 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-	};
-	DA2753310B4854AC00AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 37";
-		rLen = 0;
-		rLoc = 1004;
-		rType = 0;
-		vrLen = 1548;
-		vrLoc = 1875;
-	};
-	DA2753370B4858F000AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 93";
-		rLen = 0;
-		rLoc = 3103;
-		rType = 0;
-		vrLen = 1633;
-		vrLoc = 1875;
-	};
-	DA27533D0B485A5400AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 94";
-		rLen = 0;
-		rLoc = 3249;
-		rType = 0;
-		vrLen = 1607;
-		vrLoc = 1875;
-	};
-	DA2753410B485A8200AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 91";
-		rLen = 0;
-		rLoc = 2979;
-		rType = 0;
-		vrLen = 1612;
-		vrLoc = 1875;
-	};
-	DA2753450B485A9800AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 93";
-		rLen = 0;
-		rLoc = 3103;
-		rType = 0;
-		vrLen = 1614;
-		vrLoc = 1875;
-	};
-	DA2753490B485B3E00AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 96";
-		rLen = 0;
-		rLoc = 3249;
-		rType = 0;
-		vrLen = 1633;
-		vrLoc = 1875;
-	};
-	DA27534B0B485C9300AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "warning: passing argument 1 of 'fileHandleForReadingAtPath:' from incompatible pointer type";
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		rLen = 1;
-		rLoc = 34;
-		rType = 1;
-	};
-	DA27534C0B485C9300AAAD90 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2C05A19B06CAA52B00D84F6F /* GetMetadataForFile.m */;
-		name = "GetMetadataForFile.m: 35";
-		rLen = 0;
-		rLoc = 944;
-		rType = 0;
-		vrLen = 471;
-		vrLoc = 688;
 	};
 	DABAA00F0B46A0DC006481FA /* Source Control */ = {
 		isa = PBXSourceControlManager;
